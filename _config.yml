@@ -1,0 +1,14 @@
+layout_spectrum: 0.3172043
+typography_spectrum: 0.9378288
+color:
+  saturation: 0.3082437
+  brandStrength: 0.2292665
+  lightness: 0.6845878
+  rhythmicContrast: 0.7706093
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: 'M&G brainstorm'
