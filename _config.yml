@@ -1,9 +1,18 @@
-layout_spectrum: 0.3172043
-typography_spectrum: 0.9378288
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3082437
   brandStrength: 0.2292665
-  lightness: 0.6845878
   rhythmicContrast: 0.7706093
   brandColors:
     - '#B8B42D'
@@ -11,4 +20,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  lightness: 0.6845878
+typography_spectrum: 0.4444444
+layout_spectrum: 0.8924731
 name: 'M&G brainstorm'
