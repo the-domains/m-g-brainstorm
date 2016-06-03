@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[M&G brainstorm]]></title>
         <description><![CDATA[M&G brainstorm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/m-g-brainstorm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 11:52:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 11:52:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/m-g-brainstorm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-waw1-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12919884_10206060322338866_3981022048332828931_n.jpg?oh=9a9b2433d8629f4e1aa407bcd0f71fb5&oe=57B53836">]]></description>
+            <link>https://thegrid.ai/m-g-brainstorm/637e7ab1-5cdc-4ac9-a602-5b0922b8ed2c/index.html</link>
+            <guid isPermaLink="false">637e7ab1-5cdc-4ac9-a602-5b0922b8ed2c</guid>
+            <pubDate>Fri, 03 Jun 2016 11:52:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Svarbu užsirašyti idėjas :)]]></title>
             <description><![CDATA[<article><h1>Svarbu užsirašyti idėjas :)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91003c57-7a7a-477b-8344-ce74e8c919cd.png"></article>]]></description>
